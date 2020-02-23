@@ -1,0 +1,13 @@
+h1{
+    color: #4CAF50;
+    margin-bottom: 60px;
+}
+
+h1 span {
+    color: rgb(70, 70, 70);
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
